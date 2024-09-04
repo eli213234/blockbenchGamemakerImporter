@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"load_fbx",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"load_fbx",
+  "parent":{
+    "name":"model_create",
+    "path":"folders/Scripts/model_create.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

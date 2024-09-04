@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"length3d_dir_x",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"length3d_dir_x",
+  "parent":{
+    "name":"3dscripts",
+    "path":"folders/Scripts/3dscripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"point_direction_v",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"point_direction_v",
+  "parent":{
+    "name":"3dscripts",
+    "path":"folders/Scripts/3dscripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

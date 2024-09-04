@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"test_wepaon","order":1,"path":"objects/test_wepaon/test_wepaon.yy",},
+    {"name":"guy_texture","order":1,"path":"sprites/guy_texture/guy_texture.yy",},
+    {"name":"item_colMask","order":1,"path":"sprites/item_colMask/item_colMask.yy",},
+    {"name":"weapon_texture","order":2,"path":"sprites/weapon_texture/weapon_texture.yy",},
+  ],
+}
